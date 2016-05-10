@@ -2,6 +2,8 @@
 @import "bootstrap";
 @import 'bootstrap/theme';
 
+body { padding-top: 51px; }
+
 .alert-alert {
   @extend .alert-warning;
 }
