@@ -36,6 +36,7 @@ gem 'devise', '3.4.1'
 gem 'bootstrap-sass'
 gem 'jquery-turbolinks'
 gem 'delayed_job_active_record'
+gem 'devise_zxcvbn'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
